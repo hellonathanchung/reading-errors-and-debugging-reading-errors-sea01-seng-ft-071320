@@ -1,3 +1,3 @@
-x = 1
-
-x = 3
+2.times do
+  puts "hi"
+end
